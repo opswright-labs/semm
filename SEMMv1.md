@@ -1,4 +1,4 @@
-# SEMM - Security Engineering Maturity Model
+# SEMM - Security Engineering Maturity Matrix
 
 Version 0.1\
 Last updated 230413
