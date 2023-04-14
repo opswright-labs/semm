@@ -1,6 +1,6 @@
 # SEMM - Security Engineering Maturity Model
 
-Version 0.1
+Version 0.1\
 230413
 
 |Phase   |Category                    |Ad-Hoc                                                                                                                                     |Defined                                                                                                                                                                                        |Optimized                                                                                                                                                                                                                                                                         |
