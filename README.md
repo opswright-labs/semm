@@ -1,5 +1,5 @@
 # SEMM
-Security Engineering Maturity Matrix is a maturity model similar to the Department of Energy Cybersecurity Capability Maturity Model (C2M2) in that it leverages a 3 tiered approach to define the capabilities of an organizations security engineering processes. Unlike the SSE-CMM which is based more on specific security activities, the SEMM breaks down the security engineering process into the following practice areas and maps to 37 different categories such as Governance, Requirements Management, Threat Modeling, Acquisition, Maintenance and many other areas:
+Security Engineering Maturity Matrix is a maturity model similar to the Department of Energy Cybersecurity Capability Maturity Model (C2M2) in that it leverages a 3 tiered approach to define the capabilities of an organizations security engineering processes. Unlike the SSE-CMM which is based more on specific security activities, the SEMM breaks down the security engineering process into the following practice areas and maps to 40 different categories such as Governance, Requirements Management, Threat Modeling, Acquisition, Maintenance and many other areas:
 
 * Planning
 * Design
