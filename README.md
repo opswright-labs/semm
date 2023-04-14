@@ -10,7 +10,9 @@ Security Engineering Maturity Matrix is a maturity model similar to the Departme
 
 SEMM seeks to define the practices that should be considered for a mature security organization, but does not specify the security requirements or frameworks to be used as this will vary for every organization. This project will be maintained as an open source contribution, but its practices can also be found in the Opswright Impact platform available at https://opswright.com
 
-The initial release is planned for March 2023. Any questions can be relayed to tony@opswright.com 
+Future efforts will focus on WHEN these activities should be applied as a risk based approach will help best inform how far lef in the engineering process rigor shojuld be applied.
+
+Any questions can be relayed to tony@opswright.com 
 
 
 #
